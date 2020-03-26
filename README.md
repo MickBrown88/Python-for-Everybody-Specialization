@@ -2,7 +2,7 @@ Programming for everybody (getting started with Python) & Python Data structures
 
 This project provides an overview of all the exercises.
 Some code is borrowed from other course companions and adjusted accordingly.
-All code is compatible with Python 3. 
+All code is compatible with Python 3.
 
 Happy coding! 
 
