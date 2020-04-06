@@ -1,4 +1,4 @@
-Python for Everybody Specialization: Getting started with Python & Python Data structures licensed by the University of Michigan School of Information. 
+Python for Everybody Specialization licensed by the University of Michigan School of Information. 
 
 This project provides an overview of all the exercises.
 Some code is borrowed from other course companions and adjusted accordingly.
